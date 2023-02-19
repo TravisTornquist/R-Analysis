@@ -10,3 +10,7 @@ The linear regression has an R-squared value of 0.7149, so the model has an effi
 
 Insert image
 
+## Summary Statistics on Suspension Coils
+
+The design specification for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 PSI. The current manufacturing data meets this design specification if you look at the data as a whole. When grouping lot numbers the variance is 62.3 PSI. However, when breaking the data out by lot number only lots 1 and 2 meet design specification with variences of 0.9 and 7.5 respectively. Lot 3 fails to meet design specification with a variance of 170.3.
+
