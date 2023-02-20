@@ -25,3 +25,9 @@ When running a T-Test on only Lot 3 comparing the mean PSI of the sample to the 
 
 Insert Image
 
+## Study Design: MechaCar vs Competition
+MechaCar is a high performance vehicle. In order to demonstrate how MechaCar outperforms the competition we will compare the qsec of the MechaCar base model with the qsec of similarly priced models of the competition. 
+
+The null hypothesis is " there is no significant difference in qsec between base model MechaCars and similarly priced models of the competition." The alternative hypothesis is "Bae model MechaCars have a statistically significant lower qsec than similarly priced models of the competition."
+
+To test this hypothesis we could perform a two sample T-Test
