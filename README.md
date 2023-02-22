@@ -30,4 +30,4 @@ MechaCar is a high performance vehicle. In order to demonstrate how MechaCar out
 
 The null hypothesis is " there is no significant difference in qsec between base model MechaCars and similarly priced models of the competition." The alternative hypothesis is "Bae model MechaCars have a statistically significant lower qsec than similarly priced models of the competition."
 
-To test this hypothesis we could perform a two sample T-Test. The first sample would be a sample of MechaCar base model vehicles and their qsec. The second 
+To test this hypothesis we could perform a two sample T-Test. The first sample would be a sample of MechaCar base model vehicles and their qsec. The second sample would be a sample of similkarly priced models of the competitors cars. We would be testing the qsec for 
