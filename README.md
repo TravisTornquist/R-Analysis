@@ -8,7 +8,7 @@ Given that our level of significance is 0.05, our p-vaoue for the model is signi
 
 The linear regression has an R-squared value of 0.7149, so the model has an efficiency of 70%. It is an effective predictor of mpg.
 
-Insert image
+![2018 initial results and runtime](https://github.com/TravisTornquist/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ## Summary Statistics on Suspension Coils
 
